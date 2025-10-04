@@ -1,4 +1,4 @@
-# Harvard Artifact Dashboard
+# 🏺Harvard Artifact Dashboard
 An interactive data app that lets you explore fascinating artifacts from the Harvard Art Museums using modern data tools.
 Built with Python, MySQL, and Streamlit, this project bridges art, history, and data in a single elegant interface.
 
